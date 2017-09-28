@@ -1,0 +1,135 @@
+[15:45:01.450] [Info] Root: Preparing Root...
+[15:45:01.452] [Info] Root: Done preparing Root.
+[15:45:01.452] [Info] Client Version 1.3.2 (windows x86_64) Source ID: 4d70cfed23093a8e5abe06d662c6a5610fefc596 Protocol: 743
+[15:45:01.453] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[15:45:01.834] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[15:45:01.834] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[15:45:01.835] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[15:45:01.835] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[15:45:01.836] [Info] Loading assets from: '..\assets\packed.pak'
+[15:45:02.431] [Info] Loading assets from: '..\assets\user'
+[15:45:03.291] [Info] Assets digest is 563ff626b877e7d080472517395bc6c4eda613eaf6ac1576e95136a4ca9b3d64
+[15:45:03.291] [Info] Root: Loaded Assets in 1.83892 seconds
+[15:45:03.298] [Info] Application: Initializing SDL Video
+[15:45:03.304] [Info] Application: Initializing SDL Joystick
+[15:45:03.352] [Info] Application: Initializing SDL Sound
+[15:45:03.414] [Info] Initialized Steam services
+[15:45:03.415] [Info] Application: Creating SDL Window
+[15:45:03.575] [Info] Application: Enabling VSync with late swap tearing
+[15:45:03.593] [Info] Application: Opened default audio device with 44.1khz / 16 bit stereo audio, 2048 sample size buffer
+[15:45:03.600] [Info] OpenGL version: '4.4.0 - Build 21.20.16.4550' vendor: 'Intel' renderer: 'Intel(R) HD Graphics 520' shader: '4.40 - Build 21.20.16.4550'
+[15:45:03.643] [Info] Application: initialization...
+[15:45:03.651] [Info] Root: Loaded Configuration in 0.0068241 seconds
+[15:45:03.658] [Info] Application: renderer initialization...
+[15:45:03.686] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[15:45:03.693] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[15:45:03.696] [Info] Root: Loaded ImageMetadataDatabase in 1.70665e-06 seconds
+[15:45:03.740] [Info] Application: main update loop...
+[15:45:03.754] [Info] Loading mods from user generated content with id '885877773' from directory 'E:\steam\steamapps\workshop\content\211820\885877773'
+[15:45:03.755] [Info] Loading mods from user generated content with id '872296411' from directory 'E:\steam\steamapps\workshop\content\211820\872296411'
+[15:45:03.755] [Info] Loading mods from user generated content with id '879789773' from directory 'E:\steam\steamapps\workshop\content\211820\879789773'
+[15:45:03.755] [Info] Loading mods from user generated content with id '823739640' from directory 'E:\steam\steamapps\workshop\content\211820\823739640'
+[15:45:03.755] [Info] Loading mods from user generated content with id '838356389' from directory 'E:\steam\steamapps\workshop\content\211820\838356389'
+[15:45:03.755] [Info] Loading mods from user generated content with id '817468961' from directory 'E:\steam\steamapps\workshop\content\211820\817468961'
+[15:45:03.756] [Info] Loading mods from user generated content with id '889605762' from directory 'E:\steam\steamapps\workshop\content\211820\889605762'
+[15:45:03.756] [Info] Reloading to include all user generated content
+[15:45:03.756] [Info] Root: Reloading from disk
+[15:45:03.756] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[15:45:03.792] [Info] Root: Loaded Configuration in 0.0010112 seconds
+[15:45:03.792] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[15:45:04.126] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[15:45:04.126] [Warn] Root: Unrecognized file in asset directory 'mods_go_here', skipping
+[15:45:04.126] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\885877773'
+[15:45:04.137] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\872296411'
+[15:45:04.142] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\879789773'
+[15:45:04.148] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\823739640'
+[15:45:04.158] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\838356389'
+[15:45:04.166] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\817468961'
+[15:45:04.173] [Info] Root: Scanning for asset sources in directory 'E:\steam\steamapps\workshop\content\211820\889605762'
+[15:45:04.193] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'Parallax Compression' at 'E:\steam\steamapps\workshop\content\211820\885877773\contents.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'Dark Souls-like broadsword idle' at 'E:\steam\steamapps\workshop\content\211820\872296411\contents.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'darksoulsidlepatch' at 'E:\steam\steamapps\workshop\content\211820\879789773\contents.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'betterupgrades7' at 'E:\steam\steamapps\workshop\content\211820\823739640\contents.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'tenantPack' at 'E:\steam\steamapps\workshop\content\211820\838356389\contents.pak'
+[15:45:04.193] [Info] Root: Detected asset source named 'meleeaim' at 'E:\steam\steamapps\workshop\content\211820\817468961\contents.pak'
+[15:45:04.194] [Info] Root: Detected asset source named 'Hyper Light Drifter HUD' at 'E:\steam\steamapps\workshop\content\211820\889605762\contents.pak'
+[15:45:04.194] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[15:45:04.194] [Info] Loading assets from: '..\assets\packed.pak'
+[15:45:04.696] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\885877773\contents.pak'
+[15:45:04.701] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\872296411\contents.pak'
+[15:45:04.702] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\879789773\contents.pak'
+[15:45:04.702] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\823739640\contents.pak'
+[15:45:04.705] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\838356389\contents.pak'
+[15:45:04.707] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\817468961\contents.pak'
+[15:45:04.707] [Info] Loading assets from: 'E:\steam\steamapps\workshop\content\211820\889605762\contents.pak'
+[15:45:04.708] [Info] Loading assets from: '..\assets\user'
+[15:45:05.530] [Info] Assets digest is 245fb8f1fe743586de8e42481b81bd12662e6dd1cefb7f92678e85f219a49349
+[15:45:05.530] [Info] Root: Loaded Assets in 1.73848 seconds
+[15:45:05.542] [Info] Root: Loaded ImageMetadataDatabase in 1.70665e-06 seconds
+[15:45:05.552] [Info] Root: Loaded NameGenerator in 0.0198148 seconds
+[15:45:05.790] [Info] Root: Loaded PlantDatabase in 0.238778 seconds
+[15:45:06.405] [Info] Root: Loaded ObjectDatabase in 0.872833 seconds
+[15:45:06.551] [Info] Root: Loaded ProjectileDatabase in 0.760545 seconds
+[15:45:06.695] [Info] Root: Loaded MonsterDatabase in 0.290537 seconds
+[15:45:06.702] [Info] Root: Loaded StagehandDatabase in 0.00674218 seconds
+[15:45:06.708] [Info] Root: Loaded NpcDatabase in 0.156743 seconds
+[15:45:06.710] [Info] Root: Loaded VehicleDatabase in 0.008064 seconds
+[15:45:06.713] [Info] Root: Loaded PlayerFactory in 0.00530474 seconds
+[15:45:06.718] [Info] Root: Loaded VersioningDatabase in 0.00459434 seconds
+[15:45:06.718] [Info] Root: Loaded EntityFactory in 0.00758016 seconds
+[15:45:06.812] [Info] Root: Loaded ParticleDatabase in 0.0941154 seconds
+[15:45:07.217] [Info] Root: Loaded MaterialDatabase in 0.499571 seconds
+[15:45:07.233] [Info] Root: Loaded TerrainDatabase in 0.0156122 seconds
+[15:45:07.305] [Info] Root: Loaded BiomeDatabase in 0.0719223 seconds
+[15:45:07.308] [Info] Root: Loaded LiquidsDatabase in 0.00259584 seconds
+[15:45:07.334] [Info] Root: Loaded StatusEffectDatabase in 0.0256422 seconds
+[15:45:07.764] [Info] Root: Loaded DamageDatabase in 0.430558 seconds
+[15:45:07.780] [Info] Root: Loaded EffectSourceDatabase in 0.0159868 seconds
+[15:45:07.791] [Info] Root: Loaded FunctionDatabase in 0.0105028 seconds
+[15:45:07.838] [Info] Root: Loaded TreasureDatabase in 0.0470122 seconds
+[15:45:08.322] [Info] Root: Loaded DungeonDefinitions in 0.484068 seconds
+[15:45:08.323] [Info] Root: Loaded TilesetDatabase in 0.00072448 seconds
+[15:45:08.327] [Info] Root: Loaded StatisticsDatabase in 0.00420949 seconds
+[15:45:08.328] [Info] Root: Loaded EmoteProcessor in 0.000312747 seconds
+[15:45:08.339] [Info] Root: Loaded SpeciesDatabase in 0.0110669 seconds
+[15:45:08.372] [Info] Root: Loaded QuestTemplateDatabase in 0.033277 seconds
+[15:45:08.375] [Info] Root: Loaded AiDatabase in 0.00290731 seconds
+[15:45:08.377] [Info] Root: Loaded TechDatabase in 0.00199125 seconds
+[15:45:08.396] [Info] Root: Loaded CodexDatabase in 0.0190242 seconds
+[15:45:08.870] [Info] Root: Loaded BehaviorDatabase in 0.473983 seconds
+[15:45:08.875] [Info] Root: Loaded DanceDatabase in 0.00488021 seconds
+[15:45:08.886] [Info] Root: Loaded SpawnTypeDatabase in 0.0104132 seconds
+[15:45:08.892] [Info] Root: Loaded RadioMessageDatabase in 0.00642218 seconds
+[15:45:10.962] [Info] Root: Loaded ItemDatabase in 4.24907 seconds
+[15:45:11.145] [Info] Root: Loaded CollectionDatabase in 2.25252 seconds
+[15:45:11.747] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[15:45:20.169] [Info] UniverseServer: Acquiring universe lock file
+[15:45:20.178] [Info] UniverseServer: Loading settings
+[15:45:20.190] [Info] UniverseServer: Starting UniverseServer with UUID: 04a2f7f401fc482dde232465d9c578b6
+[15:45:20.201] [Info] UniverseServer: Logged in player 'Trazd' locally
+[15:45:20.201] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Trazd' from address local
+[15:45:20.221] [Info] UniverseServer: Loading system world (319314872, -744738840, -197345995) from disk storage
+[15:45:20.233] [Info] UniverseClient: Joined server as client 1
+[15:45:20.267] [Info] UniverseServer: Reviving player at ClientShipWorld:b36cdb9651c9ada15e936281f4b07b94
+[15:45:20.267] [Info] UniverseServer: Client 'Trazd' <1> (local) connected
+[15:45:20.309] [Info] UniverseServer: Loading client ship world ClientShipWorld:b36cdb9651c9ada15e936281f4b07b94
+[15:45:20.433] [Info] Protected dungeonIds for world set to (65524)
+[15:45:20.642] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[15:45:20.642] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[15:45:20.653] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[15:45:20.654] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 256
+[15:45:20.654] [Info] Setting steam rich presence connection as steam id 76561198103665118
+[15:45:20.761] [Info] UniverseServer: Warping player 1 to ClientShipWorld:b36cdb9651c9ada15e936281f4b07b94=1054.36.1024
+[15:45:27.555] [Info] UniverseClient: Client disconnecting...
+[15:45:27.649] [Info] Client received world stop packet, leaving: Removed
+[15:45:27.767] [Info] UniverseServer: Client 'Trazd' <1> (local) disconnected for reason: 
+[15:45:27.767] [Info] UniverseServer: Stopping idle world ClientShipWorld:b36cdb9651c9ada15e936281f4b07b94
+[15:45:28.024] [Info] UniverseServer: Stopping UniverseServer
+[15:45:28.054] [Info] Clearing steam rich presence connection
+[15:45:30.146] [Info] Application: quit requested
+[15:45:30.146] [Info] Application: quitting...
+[15:45:30.146] [Info] Application: shutdown...
+[15:45:30.260] [Info] Root: Shutting down Root
+[15:45:30.534] [Info] Application: Destroying SDL Window
+[15:45:30.568] [Info] Application: stopped gracefully
